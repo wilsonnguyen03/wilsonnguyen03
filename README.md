@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/wilson-nguyen-b6b838266/">LinkedIn</a> ·
   <a href="mailto:nguyenwilson03@gmail.com">Email</a> ·
-  <a href="https://raw.githubusercontent.com/wilsonnguyen03/wilsonnguyen03/main/resume.pdf">Resume (PDF)</a>
+  <a href="./resume.pdf">Resume (PDF)</a>
 </p>
 
 ---
