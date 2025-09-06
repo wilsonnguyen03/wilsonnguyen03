@@ -24,11 +24,6 @@
 
 ---
 
-### 🌟 Highlights
-- 🗺️ **Brisbane Public Transport Reliability** — GTFS → headways & on-time KPIs with map
-- 📱 **ToufAI** — React Native hair-wellbeing app (camera, analysis, progression tracking)
----
-
 ## 🛠 Skills & Interests
 
 **Technical:** Python, R, Java, Julia, SQL, Power BI, AWS Cloud, React Native, Node.js, MongoDB  
@@ -44,7 +39,7 @@
 
 Explore my portfolio hubs:  
 - **[Data Science Portfolio](https://github.com/wilsonnguyen03/data-science-portfolio)**
-- **[Mobile Development Portfolio](https://github.com/wilsonnguyen03/app-mobile-web-portfolio)**
+- **[Software Development Portfolio](https://github.com/wilsonnguyen03/app-mobile-web-portfolio)**
 
 Each repo links to individual projects with a one-screen README (problem → data → method → result → **Run it**).
 
