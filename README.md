@@ -43,10 +43,10 @@
 ### 📌 Featured Projects
 
 Explore my portfolio hubs:  
-- **[Data Science Portfolio]([https://github.com/YOURUSERNAME/data-science-portfolio](https://github.com/wilsonnguyen03/data-science-portfolio))**  
-- **[Mobile Development Portfolio]([https://github.com/YOURUSERNAME/mobile-development-portfolio](https://github.com/wilsonnguyen03/app-mobile-web-portfolio))**  
+- **[Data Science Portfolio](https://github.com/wilsonnguyen03/data-science-portfolio)**
+- **[Mobile Development Portfolio](https://github.com/wilsonnguyen03/app-mobile-web-portfolio)**
 
-Each repo links to individual projects with a one-screen README (problem → data → method → result → **Run it**).  
+Each repo links to individual projects with a one-screen README (problem → data → method → result → **Run it**).
 
 ---
 
