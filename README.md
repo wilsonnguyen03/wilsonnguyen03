@@ -1,6 +1,6 @@
 <!-- Social preview: 1280×640 image with your name + tagline works great -->
 
-<h1 align="center">Hi, I'm YOUR NAME 👋</h1>
+<h1 align="center">Hi, I'm WILSON</h1>
 <p align="center">
   Data Science & Computer Science @ UQ • ML Major • Brisbane, AU  
   <br/>
