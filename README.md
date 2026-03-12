@@ -53,9 +53,6 @@ Each repo links to individual projects with a one-screen README (problem → dat
 
 - **Energy Price Monitor** — Streamlit dashboard + DuckDB; simple batch ingest and alerting.  
   `Streamlit · DuckDB · Python`
-
-- **Claims Risk Modeling** — XGBoost pipeline with SHAP, feature store with Polars.  
-  `XGBoost · Sklearn · SHAP · Polars`
   
 - **Media Manipulation Dashboard** — end‑to‑end pipeline detecting coordinated narratives; ingestion → feature extraction → anomaly scoring.
   `Python · Pandas/Polars · Scikit‑learn · FastAPI · Streamlit · DuckDB · Altair`
