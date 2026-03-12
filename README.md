@@ -57,7 +57,7 @@ Each repo links to individual projects with a one-screen README (problem → dat
 - **Claims Risk Modeling** — XGBoost pipeline with SHAP, feature store with Polars.  
   `XGBoost · Sklearn · SHAP · Polars`
   
-- **Media Manipulation Dashboard** — end‑to‑end pipeline detecting coordinated narratives; ingestion → feature extraction → anomaly scoring; multi‑layer dashboard for journalists and analysts.
+- **Media Manipulation Dashboard** — end‑to‑end pipeline detecting coordinated narratives; ingestion → feature extraction → anomaly scoring.
   `Python · Pandas/Polars · Scikit‑learn · FastAPI · Streamlit · DuckDB · Altair`
   
 - **Job Application Tracker** — personal workflow tool with structured ingest, status pipelines, and analytics on response rates and timelines.
