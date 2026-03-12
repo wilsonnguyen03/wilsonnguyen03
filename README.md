@@ -16,8 +16,8 @@
 ---
 
 ### 🚀 What I’m good at
-- **Analytics → Insights:** EDA, storytelling dashboards
-- **ML/AI:** classical ML (XGBoost/Sklearn), experimentation, optimization
+- **Analytics → Insights:** EDA (numpy, pandas), storytelling dashboards (PowerBi)
+- **ML/AI:** classical ML (XGBoost/Sklearn, Pytorch, Tensorflow), experimentation, optimization
 - **Data Engines:** Polars/Pandas, DuckDB/SQL, GeoPandas, lightweight pipelines
 - **Apps:** Streamlit/FastAPI backends; React Native (Expo) for prototypes
 - **Ops:** GitHub Actions CI, Docker, clear READMEs, reproducible environments
@@ -26,11 +26,11 @@
 
 ## 🛠 Skills & Interests
 
-**Technical:** Python, R, Java, Julia, SQL, Power BI, AWS Cloud, React Native, Node.js, MongoDB  
+**Technical:** Python, R, SQL, PowerBI, AWS Cloud, React Native, Node.js, MongoDB  
 
-**Professional:** Agile (Jira), Communication, Time Management, Problem Solving, Adaptability  
+**Professional:** Communication, Time Management, Problem Solving, Adaptability  
 
-**Interests:** Data Analytics, Data Science, Data Engineering, Machine Learning / AI, Big Data, Cats
+**Interests:** Data Analytics, Data Science, Data Engineering, Machine Learning / AI, Big Data, Statistics, Maths, Acturial Science
 
 
 ---
@@ -51,19 +51,24 @@ Each repo links to individual projects with a one-screen README (problem → dat
 - **ToufAI (React Native)** — custom camera, selfie capture, hair progression timeline, assets pipeline.  
   `Expo · React Native · TypeScript`
 
-- **SOC Day-2 Setup** — Snort IDS + Elastic Stack (Logstash, Elasticsearch, Kibana) with sample detections.  
-  `Snort · ELK · Beats · Dashboards`
-
 - **Energy Price Monitor** — Streamlit dashboard + DuckDB; simple batch ingest and alerting.  
   `Streamlit · DuckDB · Python`
 
 - **Claims Risk Modeling** — XGBoost pipeline with SHAP, feature store with Polars.  
   `XGBoost · Sklearn · SHAP · Polars`
+  
+- **Media Manipulation Dashboard** — end‑to‑end pipeline detecting coordinated narratives; ingestion → feature extraction → anomaly scoring; multi‑layer dashboard for journalists and analysts.
+  `Python · Pandas/Polars · Scikit‑learn · FastAPI · Streamlit · DuckDB · Altair`
+  
+- **Job Application Tracker** — personal workflow tool with structured ingest, status pipelines, and analytics on response rates and timelines.
+  `Python · Streamlit · DuckDB · Pandas`
+
+
 
 ---
 
 ### 🤝 Open to
-**Data/ML, analytics, and platform-minded internships/roles** in government, consulting, and product teams.  
+**Data/ML/AI, prediction and analytics, and platform-minded internships/roles** in various industries such as government, energy, banking, insurance and product teams.  
 If my projects align with what you’re building, let’s chat → **nguyenwilson03@gmail.com**.
 
 <!-- Optional: GitHub stats cards (uncomment if you want them)
