@@ -17,8 +17,9 @@ I build things with data. I'm interested in machine learning, applied AI, and tu
 <!-- - **Project Name**: one line on what it does. `Tech · Stack` -->
 
 ### 📱 App Development
-*Coming soon.*
-<!-- - **Project Name**: one line on what it does. `Tech · Stack` -->
+- **PokéStudy**: A Pokémon-inspired study timer that turns productive study sessions into an adventure. Focus sessions earn your Pokémon XP, trigger encounters with wild Pokémon, and help you progress through gym battles across five regions. Built with **Electron, React, and TypeScript**.
+🌐 **Live Demo:** https://pokework.vercel.app/
+📂 **GitHub:** https://github.com/wilsonnguyen03/PokeStudy
 
 ### 📊 Analytics & Dashboards
 *Coming soon.*
